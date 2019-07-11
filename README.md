@@ -1,12 +1,16 @@
 This is a React Native project (Both Web and Native-CLI) using MobX for state management, React Navigation, Hooks and Typesript.
 
-It is a combined Repository / Folder for both the React Web application and the React-Native-Cli application.
+It is a combined Repository / Folder for both the React Web application and the React-Native-ClI mobile application.
 
-There is one code base/package that is shared between the React setup and the React-Native setup.
+The two folders are: 
+- `react-native-web` for the React web app
+- `ReactNativeMobile` from the React Native mobile app
+
+This is to have one code base/package that is shared between the React setup and the React-Native setup.
 
 
 
-Then React Web app portion was ceated like so:
+The React Web app portion, `react-native-web`, was ceated like so:
 
 It was first bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
