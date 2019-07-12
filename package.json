@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "React-Web-and-Native-CombinedFolder",
+  "version": "1.0.0",
+  "description": "This is a React Native project (Both Web and Native-CLI) using MobX for state management, React Navigation, Hooks and Typesript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolarisTLX/ReactNativeMobXNavigationHooksTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolarisTLX/ReactNativeMobXNavigationHooksTypescript/issues"
+  },
+  "homepage": "https://github.com/PolarisTLX/ReactNativeMobXNavigationHooksTypescript#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
